@@ -1,0 +1,13 @@
+# Ignore large model files and videos
+*.pt
+*.webm
+*.mp4
+*.avi
+*.mov
+*.mkv
+.DS_Store
+
+# Ignore dataset folders
+dataset/
+data/
+

@@ -1,0 +1,6 @@
+names:
+- paper toe
+nc: 1
+path: /Users/abassmac/Desktop/faceTrain /dataset
+train: images/train
+val: images/train
